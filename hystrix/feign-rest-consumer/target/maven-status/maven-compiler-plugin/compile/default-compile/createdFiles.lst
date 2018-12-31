@@ -1,0 +1,4 @@
+com\scottrbrtsn\cloud\netflix\hystrix\feign\rest\consumer\GreetingController.class
+com\scottrbrtsn\cloud\netflix\hystrix\feign\rest\consumer\GreetingClient.class
+com\scottrbrtsn\cloud\netflix\hystrix\feign\rest\consumer\GreetingClient$GreetingClientFallback.class
+com\scottrbrtsn\cloud\netflix\hystrix\feign\rest\consumer\RestConsumerFeignApplication.class

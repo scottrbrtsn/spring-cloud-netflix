@@ -1,0 +1,3 @@
+com\scottrbrtsn\cloud\netflix\hystrix\rest\consumer\GreetingController.class
+com\scottrbrtsn\cloud\netflix\hystrix\rest\consumer\RestConsumerApplication.class
+com\scottrbrtsn\cloud\netflix\hystrix\rest\consumer\GreetingService.class
