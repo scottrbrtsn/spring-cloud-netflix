@@ -14,6 +14,7 @@
         <module>eureka-client</module>
         <module>zuul-server</module>
         <module>hystrix</module>
+        <module>cognitive-health-toolshed</module>
     </modules>
 
     <properties>
