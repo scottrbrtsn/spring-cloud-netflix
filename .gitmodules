@@ -1,3 +1,6 @@
 [submodule "cognitive-health-ui"]
 	path = cognitive-health-ui
 	url = https://github.com/scottrbrtsn/cognitive-health-ui.git
+[submodule "cognitive-health-toolshed"]
+	path = cognitive-health-toolshed
+	url = https://github.com/scottrbrtsn/cognitive-health-toolshed.git
