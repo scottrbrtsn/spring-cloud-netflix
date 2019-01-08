@@ -20,8 +20,7 @@
         <spring-boot-maven-plugin.version>2.0.1.RELEASE</spring-boot-maven-plugin.version>
         <commons-config.version>1.10</commons-config.version>
         <rxjava.version>1.2.10</rxjava.version>
-        <spring-boot.version>2.0.5.RELEASE</spring-boot.version>
-        <spring-cloud-dependencies.version>Camden.SR7</spring-cloud-dependencies.version>
+        <spring-cloud-dependencies.version>Edgware.RELEASE</spring-cloud-dependencies.version>
     </properties>
 
     <parent>

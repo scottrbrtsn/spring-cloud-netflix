@@ -1,7 +1,7 @@
 package com.scottrbrtsn.cloud.netflix.hystrix.feign.rest.consumer;
 
 import com.scottrbrtsn.cloud.netflix.hystrix.rest.producer.GreetingController;
-import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PathVariable;
 
